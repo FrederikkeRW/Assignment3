@@ -11,7 +11,6 @@ Expected Output :
  */
 
 import java.util.Scanner;
-//hejsaaa
 public class Main {
     public static void main(String[] args){
 
